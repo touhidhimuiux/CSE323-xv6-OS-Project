@@ -1,12 +1,12 @@
-# 🚀 Enhancing xv6: CPU Time Accounting & Priority-Based Scheduling
+# Enhancing xv6: CPU Time Accounting & Priority-Based Scheduling
 
 <div align="center">
 
-![xv6](https://img.shields.io/badge/xv6-RISC--V-orange?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating%20System-xv6-success?style=for-the-badge)
-![Course](https://img.shields.io/badge/Course-CSE323%20Operating%20Systems-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+[![xv6](https://img.shields.io/badge/xv6-RISC--V-orange?style=for-the-badge)](https://github.com/mit-pdos/xv6-riscv)
+[![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![OS](https://img.shields.io/badge/Operating%20System-xv6-success?style=for-the-badge)](https://pdos.csail.mit.edu/6.828/2025/xv6/book-riscv-rev5.pdf)
+[![Course](https://img.shields.io/badge/Course-CSE323%20Operating%20Systems-brightgreen?style=for-the-badge)](http://www.northsouth.edu/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
 </div>
 
@@ -322,6 +322,6 @@ This project is developed for academic and educational purposes.
 
 <div align="center">
 
-## 🌟 If you found this project useful, consider giving it a star!
+##  If you found this project useful, consider giving it a star!
 
 </div>
