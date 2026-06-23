@@ -11,6 +11,7 @@
 </div>
 
 ---
+![CSE323-xv6-OS-Project](CSE323-xv6-OS-Project.png)
 
 # 📌 Project Overview
 
